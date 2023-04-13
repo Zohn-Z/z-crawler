@@ -1,0 +1,1204 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0,minimum-scale=1.0,user-scalable=no" />
+<title>国内高匿HTTP免费代理IP - 快代理</title>
+
+<meta name="keywords" content="免费代理ip,代理ip,国内代理ip,ip代理,ip代理池,ip代理软件,免费代理ip服务器,免费代理ip提取,高匿代理ip,免费代理ip池,静态ip代理,动态ip代理" />
+<meta name="description" content="快代理HTTP免费代理IP，每小时更新，免费代理IP由第三方服务器提供。企业和开发者若需要高品质IP代理服务，欢迎选购，我们每天提供代理IP超40万个，并提供完备的API接口和SDK，赋能于大规模数据采集。" />
+
+<meta content="index,follow" name="robots"/>
+<meta content="index,follow" name="GOOGLEBOT"/>
+<meta content="快代理"  name="Author"/>
+<meta name="renderer" content="webkit" />
+<meta name="baidu_union_verify" content="c087a423b52225f404d4c97e59e53464">
+<meta name="google-site-verification" content="Pd8y4Id4xJSxMvj-OwUhaZaK7COpr-8LcANUG30jxW8" />
+<meta name="google-site-verification" content="VqxCNkms5J6_V8eHmKeUQWnBRukgNmLIZUD4Do3LWns" />
+
+<link rel="shortcut icon" href="/img/v3/favicon.ico?v=2" type="image/x-icon" >
+
+
+
+
+<link rel="stylesheet" href="/css/all.css?v=244" media="screen" />
+
+
+
+
+
+<style>
+    .tag_area2 { margin:20px 0 0px 0; text-align: left; }
+    .tag_area2 .label { background-color:#c1c1bf;text-decoration:none; font-size:13px; padding:3px 5px 3px 5px;}
+    .tag_area2 .label.active, .tag_area2 .label.active:hover { background-color:#468847; }
+    .tag_area2 .label:hover { background-color:#aaa; }
+    .mod-wrap-forfree2 {background:#fff;}
+    tbody a { color:#777; }
+    tbody a:hover { text-decoration:none; }
+</style>
+<link rel="stylesheet" href="/css/v3ui_adapt.css?v=1" media="screen" />
+
+
+<meta name="renderer" content="webkit">
+<meta name="baidu-site-verification" content="AO3Q6dKj9R" />
+<meta name="baidu-site-verification" content="1flUdvqxyo" />
+<meta name="sogou_site_verification" content="9ELczs5cQc"/>
+<meta name="360-site-verification" content="feeadcad97dd7093f9abb1ee5285f031" />
+<meta baidu-gxt-verify-token="0fd36d429c039b254364ec1f35f82358">
+</head>
+
+
+
+<body class="transition-none">
+<div class="body">
+<!--notify-->
+<div id="top_notify"></div>
+
+
+<!--start header-->
+
+
+<div id="header" class="header bg-black">
+    <div class="header-container">
+        <a href="/" class="header-logo">
+            <div class="logo"></div>
+        </a>
+        <div class="header-right">
+            <div class="nav">
+                <div class="item-area nav-free">
+                    <a id="menu_free" class="item link active" href="/free/">
+                        <div class="item-wrap">免费代理</div>
+                    </a>
+                </div>
+                <div class="item-area nav-product">
+                    <div id="menu_product_list" class="item ">
+                        <div class="item-wrap">
+                            <span>产品</span><span class="dropdown iconfont icon-xiajiantou"></span>
+                        </div>
+                    </div>
+
+                    <div class="popover bottom" id="menu_product_dropdown" style="left: -222px">
+                        <div class="popover__arrow" style="left: 250px"></div>
+                        <div class="popover__content">
+                            <div class="top-menu">
+                                <div class="menu-main">
+                                    <!-- 隧道代理 -->
+                                    <div class="menu-group">
+                                        <div class="menu-type">
+                                            <div class="menu-type--icon">
+                                                <img src="/img/v3/sddl_1@2x.png" width="36px" alt="隧道ip代理图标"/>
+                                            </div>
+                                            <div class="menu-type--desc">
+                                                <div class="flex flex-start">
+                                                    <a href="/tps" class="title">
+                                                        隧道代理
+                                                        <div class="subtitle">高性能云端自动切换代理IP服务</div>
+                                                    </a>
+                                                    <a class="control  gray-link" href="/usercenter/tps/">
+                                                        产品管理
+                                                        <i class="right-arrow"></i>
+                                                    </a>
+                                                </div>
+                                                <div class="underline  media-pc"></div>
+                                                <div class="menu-submenu">
+                                                    <ul>
+                                                        <li>
+                                                            <img src="/img/v3/sddl_2@2x.png" alt="代理ip包年">
+                                                            <a href="/cart?t=tps" class="gray-link">包年包月</a>
+                                                        </li>
+                                                        <li>
+                                                            <img src="/img/v3/sddl_3@2x.png" alt="代理ip按量">
+                                                            <a href="/cart?t=tps_c" class="gray-link">按量付费</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- 私密代理 -->
+                                    <div class="menu-group">
+                                        <div class="menu-type">
+                                            <div class="menu-type--icon">
+                                                <img src="/img/v3/smdl_1@2x.png" width="36px" alt="私密代理ip图标"/>
+                                            </div>
+                                            <div class="menu-type--desc">
+                                                <div class="flex flex-start">
+                                                    <a href="/dps" class="title">
+                                                        私密代理
+                                                        <div class="subtitle">高品质动态短效代理IP服务</div>
+                                                    </a>
+                                                    <a class="control gray-link" href="/usercenter/dps/">
+                                                        产品管理
+                                                        <i class="right-arrow"></i>
+                                                    </a>
+                                                </div>
+                                                <div class="underline media-pc"></div>
+                                                <div class="menu-submenu">
+                                                    <ul>
+                                                        <li>
+                                                            <img src="/img/v3/smdl_2@2x.png" alt="ip代理均匀提取">
+                                                            <a href="/cart?t=dps" class="gray-link">均匀提取</a>
+                                                        </li>
+                                                        <li>
+                                                            <img src="/img/v3/smdl_3@2x.png" alt="ip代理集中提取">
+                                                            <a href="/cart?t=dps_2" class="gray-link">集中提取</a>
+                                                        </li>
+                                                        <li>
+                                                            <img src="/img/v3/smdl_4@2x.png" alt="代理ip标准付费">
+                                                            <a href="/cart?t=dps_c" class="gray-link">按IP付费标准版</a>
+                                                        </li>
+                                                        <li>
+                                                            <img src="/img/v3/smdl_5@2x.png" alt="代理ip专业付费">
+                                                            <a href="/cart?t=dps_c_pro" class="gray-link">按IP付费专业版</a>
+                                                            <img src="/img/v3/smdl_6@2x.png">
+                                                        </li>
+
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- 独享代理 -->
+                                    <div class="menu-group">
+                                        <div class="menu-type">
+                                            <div class="menu-type--icon">
+                                                <img src="/img/v3/dxdl_1@2x.png" width="36px" alt="独享代理ip图标"/>
+                                            </div>
+                                            <div class="menu-type--desc">
+                                                <div class="flex flex-start">
+                                                    <a href="/kps" class="title">
+                                                        独享代理
+                                                        <div class="subtitle">高品质极速稳定的长效代理IP服务</div>
+                                                    </a>
+                                                    <a class="control gray-link" href="/usercenter/dps/">
+                                                        产品管理
+                                                        <i class="right-arrow"></i>
+                                                    </a>
+                                                </div>
+                                                <div class="underline  media-pc"></div>
+                                                <div class="menu-submenu">
+                                                    <ul>
+                                                        <li>
+                                                            <img src="/img/v3/dxdl_3@2x.png">
+                                                            <a href="/cart?t=kps_std" class="gray-link">IP共享型</a>
+                                                        </li>
+                                                        <li>
+                                                            <img src="/img/v3/dxdl_4@2x.png">
+                                                            <a href="/cart?t=kps_exip" class="gray-link">IP独享型</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- 开放代理 -->
+                                    <div class="menu-group">
+                                        <div class="menu-type">
+                                            <div class="menu-type--icon">
+                                                <img src="/img/v3/kfdl_1@2x.png" width="36px" alt="开放ip代理图标"/>
+                                            </div>
+                                            <div class="menu-type--desc">
+                                                <div class="flex flex-start">
+                                                    <a href="/ops" class="title">
+                                                        开放代理
+                                                        <div class="subtitle">公网收集的量大价优的代理IP服务</div>
+                                                    </a>
+                                                    <a class="control gray-link" href="/usercenter/ops/">
+                                                        产品管理
+                                                        <i class="right-arrow"></i>
+                                                    </a>
+                                                </div>
+                                                <div class="underline media-pc"></div>
+                                                <div class="menu-submenu">
+                                                    <ul>
+                                                        <li>
+                                                            <img src="/img/v3/kfdl_2@2x.png">
+                                                            <a href="/cart?t=vip" class="gray-link">VIP版</a>
+                                                        </li>
+                                                        <li>
+                                                            <img src="/img/v3/kfdl_3@2x.png">
+                                                            <a href="/cart?t=svip" class="gray-link">SVIP版</a>
+                                                        </li>
+
+
+
+
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="menu-other">
+                                    <div>增值服务</div>
+                                    <a class="btn plugin" href="/extension">专属Chorme插件</a>
+                                    <a class="btn student" href="/student">学生成长计划</a>
+
+
+                                </div>
+                                <div class="menu-other-mobile media-m">
+                                    <a class="btn plugin" href="/extension"></a>
+                                    <a class="btn student" href="/student"></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item-area nav-pricing">
+                    <a id="menu_pricing" class="item link " href="/pricing/">
+                        <div class="item-wrap">定价</div>
+                    </a>
+                </div>
+                <div class="item-area nav-doc">
+                    <div id="menu_doc" class="item ">
+                        <div class="item-wrap">
+                            <span>文档与支持</span><span class="dropdown iconfont icon-xiajiantou"></span>
+                        </div>
+                    </div>
+
+                    <div class="popover bottom" style="left: -200px" id="menu_doc_dropdown">
+                        <div class="popover__arrow" style="left: 250px"></div>
+                        <div class="popover__content">
+                            <div class="top-menu">
+                                <div class="menu-main">
+                                    <!-- 产品功能 -->
+                                    <div class="menu-group dev">
+                                        <div class="menu-type">
+                                            <div class="menu-type--desc">
+                                                <div class="subtitle">产品与功能</div>
+                                                <div class="underline media-pc"></div>
+                                                <div class="flex">
+                                                    <div class="menu-oneLevel">
+                                                        <ul>
+                                                            <li>
+                                                                <img src="/img/v3/cpygn_1@2x.png" alt="ip代理文档">
+                                                                <a href="/helpcenter/">帮助中心</a>
+                                                            </li>
+                                                            <li>
+                                                                <img src="/img/v3/cpygn_2@2x.png">
+                                                                <div>
+                                                                    <a href="/doc/product/tps/">产品介绍</a>
+                                                                    <div class="menu-twoLevel">
+                                                                        <a href="/doc/product/tps/" class="gray-link">隧道代理</a>
+                                                                        <a href="/doc/product/dps/" class="gray-link">私密代理</a>
+                                                                        <a href="/doc/product/kps/" class="gray-link">独享代理</a>
+                                                                        <a href="/doc/product/ops/" class="gray-link">开放代理</a>
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <img src="/img/v3/cpygn_3@2x.png" alt="ip代理功能" style="margin-left:-1px;">
+                                                                <a href="/doc/func/identity_overview/">功能介绍</a>
+                                                            </li>
+                                                            <li>
+
+                                                                <svg style="margin: 4px 4px 3px 3px;" width="13" height="13" viewBox="0 0 15 15">
+                                                                    <path fill="#3989ff" d="M 8,1 A 7,7 0 0 0 2.918,3.1973 L 5.1523,7.0664 A 3,3 0 0 1 8,5 H 14.31 A 7,7 0 0 0 8,1 Z M 2.2402,4.0234 A 7,7 0 0 0 1,8 7,7 0 0 0 6.3828,14.803 L 8.6172,10.934 A 3,3 0 0 1 8,11 3,3 0 0 1 5.4062,9.498 L 5.4023,9.5 Z M 10.23,6 A 3,3 0 0 1 11,8 3,3 0 0 1 10.596,9.49 L 10.598,9.5 7.4395,14.973 A 7,7 0 0 0 8,15 7,7 0 0 0 15,8 7,7 0 0 0 14.701,6 Z"/>
+                                                                    <path fill="#93bbff" d="M 8,6 A 2,2 0 0 0 6,8 2,2 0 0 0 8,10 2,2 0 0 0 10,8 2,2 0 0 0 8,6 Z"/>
+                                                                </svg>
+                                                                <a href="/extension/">浏览器插件</a>
+                                                            </li>
+                                                            <li>
+                                                                <img src="/img/v3/cpygn_4@2x.png" alt="ip代理问题">
+                                                                <div>
+                                                                    <a href="/doc/faq/buy/">常见问题</a>
+                                                                    <div class="menu-twoLevel">
+                                                                        <a href="/doc/faq/buy/" class="gray-link">购买问题</a>
+                                                                        <a href="/doc/faq/product/" class="gray-link">产品问题</a>
+                                                                        <a href="/doc/func/identity_faq_common/" class="gray-link">实名问题</a>
+                                                                        <a href="/doc/faq/invoice/" class="gray-link">发票问题</a>
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <img src="/img/v3/cpygn_5@2x.png">
+                                                                <a href="/changelog/">更新日志💡</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- 开发指南 -->
+                                    <div class="menu-group">
+                                        <div class="menu-type">
+                                            <div class="menu-type--desc">
+                                                <div class="subtitle">开发指南</div>
+                                                <div class="underline media-pc"></div>
+                                                <div class="flex">
+                                                    <div class="menu-oneLevel">
+                                                        <ul>
+                                                            <li>
+                                                                <img src="/img/v3/kfzn_1@2x.png">
+                                                                <a href="/doc/dev/quickstart/">快速入门</a>
+                                                            </li>
+                                                            <li>
+                                                                <img src="/img/v3/kfzn_2@2x.png">
+                                                                <div>
+                                                                    <a href="/doc/dev/quickstart/" >开发手册</a>
+                                                                    <div class="menu-twoLevel">
+                                                                        <a href="/doc/dev/tps/" class="gray-link">隧道开发</a>
+                                                                        <a href="/doc/dev/dps/" class="gray-link">私密开发</a>
+                                                                        <a href="/doc/dev/kps/" class="gray-link">独享开发</a>
+                                                                        <a href="/doc/api/getproxy/" class="gray-link">开放开发</a>
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <img src="/img/v3/kfzn_3@2x.png">
+                                                                <a href="/doc/dev/api/">API获取代理</a>
+                                                            </li>
+                                                            <li>
+                                                                <img src="/img/v3/kfzn_4@2x.png">
+                                                                <a href="/doc/dev/proxy/">代理可用性测试</a>
+                                                            </li>
+                                                            <li>
+                                                                <img src="/img/v3/kfzn_5@2x.png">
+                                                                <a href="/doc/dev/errcode/">错误码一览</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="menu-oneLevel">
+                                                        <ul>
+                                                            <li>
+                                                                <img src="/img/v3/kfzn_6@2x.png">
+                                                                <a href="/doc/api/#3-api">所有API列表</a>
+                                                            </li>
+                                                            <li>
+                                                                <img src="/img/v3/kfzn_8@2x.png">
+                                                                <div>
+                                                                    <a href="/doc/api/#3-api" >API接口分类</a>
+                                                                    <div class="menu-twoLevel">
+                                                                        <a href="/doc/api/#3-api" class="gray-link">账号接口</a>
+                                                                        <a href="/doc/api/#3-api" class="gray-link">订单接口</a>
+                                                                        <a href="/doc/api/#3-api" class="gray-link">产品接口</a>
+                                                                        <a href="/doc/api/#3-api" class="gray-link">工具接口</a>
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <img src="/img/v3/kfzn_7@2x.png">
+                                                                <a href="/doc/api/auth/">API授权与验证</a>
+                                                            </li>
+                                                            <li>
+                                                                <img src="/img/v3/kfzn_9@2x.png">
+                                                                <a href="/doc/dev/sdk/">SDK&代码样例</a>
+                                                            </li>
+                                                            <li>
+                                                                <img src="/img/v3/kfzn_10@2x.png">
+                                                                <a href="/tool/fetchua/">在线获取UA</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="menu-contact">
+                                    <div class="flex">
+                                        <div class="flex flex-column tel">
+                                            <div class="icon_text">
+                                                <img src="/img/v3/tel@2x.png" width="16" height="16">
+                                                <div>客服热线:</div>
+                                            </div>
+                                            <span class="s-text">400-058-0638</span>
+                                        </div>
+                                        <a href="http://q.url.cn/CDksXo?_type=wpa&amp;qidian=true" class="flex flex-column flex-auto qq" target="_blank">
+                                            <div class="icon_text">
+                                                <img class="init" src="/img/v3/y10@2x.png" width="16" height="16">
+                                                <img class="hover" src="/img/v3/y10-1@2x.png" width="16" height="16">
+                                                <div>客服QQ:</div>
+                                            </div>
+                                            <span class="s-text">800849628</span>
+                                        </a>
+                                    </div>
+                                    <a class="btn btn-small blue-btn btn-cross online-chat" href="javascript:void(0);">售前在线咨询</a>
+                                    <span class="s-text">&nbsp;&nbsp;（ 周一至周六 9:00 ~ 21:00 ）&nbsp;&nbsp;</span>
+                                    <a class="btn btn-small blue-btn btn-cross is-plain" href="/support/addrequest">工单支持</a>
+                                    <div class="wechat">
+                                        <img src="/img/service_wx3.png" width="138">
+                                        <div>客服微信</div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item-area nav-safe">
+                    <a id="menu_safe" class="item link " href="/safe/">
+                        <div class="item-wrap">安全合规</div>
+                    </a>
+                </div>
+                <div class="item-area nav-cps">
+                    <a id="menu_cps" class="item link " href="/cps/">
+                        <div class="item-wrap">加入推广</div>
+                    </a>
+                </div>
+                <div class="item-area nav-free">
+                    <a id="menu_free" class="item link " href="/blog/">
+                        <div class="item-wrap">博客</div>
+                    </a>
+                </div>
+            </div>
+            <div class="action a_hover_sec">
+                <div class="media-pc unlogin">
+                    <a href="/usercenter/" class="btn btn-small btn-link">会员中心</a>
+                    <a href="/login/" class="btn btn-small btn-link">登录</a>
+                </div>
+                <div class="media-pc welcome-link" style="display: none">
+                    <a id="header_login_btn" href="/usercenter/overview" class="btn btn-small btn-link"><span class="welcome"></span></a>
+                </div>
+                <div class="media-pc header-register">
+                    <a id="header_regist_btn" href="/regist/" class="btn btn-small blue-btn link-mc"><span>免费注册</span></a>
+                    <span id="noti"></span>
+                </div>
+                <div class="media-m">
+                    <div class="login-anonym">
+                        <a href="/login/" class="btn btn-small">登录</a>
+                        <a href="/regist/" class="btn btn-small blue-btn">注册</a>
+                    </div>
+                    <div class="login-user">
+                        <a href="/usercenter/" class="btn btn-small blue-btn">会员中心</a>
+                    </div>
+                </div>
+
+                <div id="top_account_navpop" class="nav-pop-v3">
+                    <div class="userInfo">
+                        <div class="account flex">
+
+
+                                    <b>...</b>
+                                    <span class="tag tag-lightgray">未实名</span>
+
+
+                        </div>
+                        <div class="balance">可用余额<a href="/usercenter/overview"><b class="warning">¥<span id="top_account_balance"></span></b></a>
+                        </div>
+                        <div class="flex order">
+                            <a id="v3_top_account_ordercount" class="gray-link flex flex-column" href="/usercenter/orderlist">
+                                <b></b>
+                                <span>我的订单</span>
+                            </a>
+                            <a id="v3_top_account_coupon" class="gray-link flex flex-column" href="/usercenter/coupon/">
+                                <b>0</b>
+                                <span>优惠券<i class=""></i></span>
+                            </a>
+                            <a id="v3_top_account_unread_count" class="gray-link flex flex-column" href="/usercenter/message/">
+                                <b></b>
+                                <span>未读消息<i class=""></i></span>
+                            </a>
+                        </div>
+                        <div class="flex setting">
+                            <a href="/usercenter/recharge" class="btn btn-small warning-btn flex-auto icon icon1">账户充值</a>
+                            <a href="/usercenter/orderlist/" class="btn btn-small blue-btn flex-auto icon icon1">订单管理</a>
+                        </div>
+                        <div class="user-action">
+                            <div class="flex">
+                                <a class="icon_text gray-link flex-column" href="/usercenter/payhistory">
+                                    <img src="/img/v3/1@2x.png" width="20" height="20">
+                                    <span>我的账单</span>
+                                </a>
+                                <a class="icon_text gray-link flex-column flex-auto" href="/usercenter/autorenew">
+                                    <img src="/img/v3/2@2x.png" width="20" height="20">
+                                    <span>自动续费</span>
+                                </a>
+                                <a class="icon_text gray-link flex-column" href="/usercenter/invoice">
+                                    <img src="/img/v3/3@2x.png" width="20" height="20">
+                                    <span>发票申请</span>
+                                </a>
+                            </div>
+                            <div class="flex">
+                                <a class="icon_text gray-link flex-column" href="/usercenter/invoicelist">
+                                    <img src="/img/v3/4@2x.png" width="20" height="20">
+                                    <span>开票记录</span>
+                                </a>
+                                <a class="icon_text gray-link flex-column flex-auto" href="/logout">
+                                    <img src="/img/v3/5@2x.png" width="20" height="20">
+                                    <span>退出登录</span>
+                                </a>
+                                <a class="icon_text gray-link flex-column">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="action-menu">
+        <div class="menu-open"></div>
+        <div class="menu-close"></div>
+    </div>
+</div>
+<div class="header-placeholder"></div>
+
+
+<!--end header-->
+
+<div id="content">
+
+
+
+<div class="con-pt"></div>
+<div class="con-body">
+<div class="c_title2 stat">
+    <h1>免费代理</h1>
+    <span class="buy"><a href="/pricing/">购买更多代理>></a></span>
+</div>
+<div>
+    <div class="tag_area2" >
+        <a id="tag_inha" class="label" href="/free/inha/">国内高匿代理</a>
+        <a id="tag_intr" class="label" href="/free/intr/">国内普通代理</a>
+
+    </div>
+
+    <div id="list" style="margin-top:5px;">
+        <p>免费代理由第三方服务器提供，IP不确定性较大，总体质量不高。如需购买基于自营服务器的高质量IP产品，请开通测试订单。
+            <span class="mod-wrap mod-wrap-forfree2"><a href="/freetest/" class="free-btn">开通测试</a></span>
+        </p>
+        <table class="table table-bordered table-striped">
+          <thead>
+              <tr>
+                <th>IP</th>
+                <th>PORT</th>
+                <th>匿名度</th>
+                <th>类型</th>
+                <th>位置</th>
+                <th>响应速度</th>
+                <th>最后验证时间</th>
+                <th>付费方式</th>
+              </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td data-title="IP">183.236.232.160</td>
+                    <td data-title="PORT">8080</td>
+                    <td data-title="匿名度">高匿名</td>
+                    <td data-title="类型">HTTP</td>
+                    <td data-title="位置">中国 广东 江门 移动</td>
+                    <td data-title="响应速度">6秒</td>
+                    <td data-title="最后验证时间">2023-04-07 14:31:01</td>
+                    <td data-title="付费方式">免费代理ip</td>
+                </tr>
+
+                <tr>
+                    <td data-title="IP">114.233.71.82</td>
+                    <td data-title="PORT">9000</td>
+                    <td data-title="匿名度">高匿名</td>
+                    <td data-title="类型">HTTP</td>
+                    <td data-title="位置">中国 江苏 泰州 电信</td>
+                    <td data-title="响应速度">0.6秒</td>
+                    <td data-title="最后验证时间">2023-04-07 13:31:01</td>
+                    <td data-title="付费方式">免费代理ip</td>
+                </tr>
+
+                <tr>
+                    <td data-title="IP">210.5.10.87</td>
+                    <td data-title="PORT">53281</td>
+                    <td data-title="匿名度">高匿名</td>
+                    <td data-title="类型">HTTP</td>
+                    <td data-title="位置">中国 上海  联通</td>
+                    <td data-title="响应速度">5秒</td>
+                    <td data-title="最后验证时间">2023-04-07 12:31:01</td>
+                    <td data-title="付费方式">免费代理ip</td>
+                </tr>
+
+                <tr>
+                    <td data-title="IP">117.114.149.66</td>
+                    <td data-title="PORT">55443</td>
+                    <td data-title="匿名度">高匿名</td>
+                    <td data-title="类型">HTTP</td>
+                    <td data-title="位置">北京市海淀区 BJENET宽带网络 BGP多线</td>
+                    <td data-title="响应速度">3秒</td>
+                    <td data-title="最后验证时间">2023-04-07 11:31:01</td>
+                    <td data-title="付费方式">免费代理ip</td>
+                </tr>
+
+                <tr>
+                    <td data-title="IP">121.13.252.62</td>
+                    <td data-title="PORT">41564</td>
+                    <td data-title="匿名度">高匿名</td>
+                    <td data-title="类型">HTTP</td>
+                    <td data-title="位置">广东省东莞市  电信</td>
+                    <td data-title="响应速度">4秒</td>
+                    <td data-title="最后验证时间">2023-04-07 10:31:02</td>
+                    <td data-title="付费方式">免费代理ip</td>
+                </tr>
+
+                <tr>
+                    <td data-title="IP">61.216.156.222</td>
+                    <td data-title="PORT">60808</td>
+                    <td data-title="匿名度">高匿名</td>
+                    <td data-title="类型">HTTP</td>
+                    <td data-title="位置">中国 台湾 cht.com.tw </td>
+                    <td data-title="响应速度">4秒</td>
+                    <td data-title="最后验证时间">2023-04-07 09:31:01</td>
+                    <td data-title="付费方式">免费代理ip</td>
+                </tr>
+
+                <tr>
+                    <td data-title="IP">112.14.47.6</td>
+                    <td data-title="PORT">52024</td>
+                    <td data-title="匿名度">高匿名</td>
+                    <td data-title="类型">HTTP</td>
+                    <td data-title="位置">浙江省宁波市  移动</td>
+                    <td data-title="响应速度">8秒</td>
+                    <td data-title="最后验证时间">2023-04-07 08:31:01</td>
+                    <td data-title="付费方式">免费代理ip</td>
+                </tr>
+
+                <tr>
+                    <td data-title="IP">182.139.111.149</td>
+                    <td data-title="PORT">9000</td>
+                    <td data-title="匿名度">高匿名</td>
+                    <td data-title="类型">HTTP</td>
+                    <td data-title="位置">四川省成都市  电信</td>
+                    <td data-title="响应速度">0.4秒</td>
+                    <td data-title="最后验证时间">2023-04-07 07:31:01</td>
+                    <td data-title="付费方式">免费代理ip</td>
+                </tr>
+
+                <tr>
+                    <td data-title="IP">114.233.70.231</td>
+                    <td data-title="PORT">9000</td>
+                    <td data-title="匿名度">高匿名</td>
+                    <td data-title="类型">HTTP</td>
+                    <td data-title="位置">中国 江苏 泰州 电信</td>
+                    <td data-title="响应速度">0.5秒</td>
+                    <td data-title="最后验证时间">2023-04-07 06:31:01</td>
+                    <td data-title="付费方式">免费代理ip</td>
+                </tr>
+
+                <tr>
+                    <td data-title="IP">222.74.73.202</td>
+                    <td data-title="PORT">42055</td>
+                    <td data-title="匿名度">高匿名</td>
+                    <td data-title="类型">HTTP</td>
+                    <td data-title="位置">内蒙古自治区赤峰市  电信</td>
+                    <td data-title="响应速度">1秒</td>
+                    <td data-title="最后验证时间">2023-04-07 05:31:01</td>
+                    <td data-title="付费方式">免费代理ip</td>
+                </tr>
+
+                <tr>
+                    <td data-title="IP">27.42.168.46</td>
+                    <td data-title="PORT">55481</td>
+                    <td data-title="匿名度">高匿名</td>
+                    <td data-title="类型">HTTP</td>
+                    <td data-title="位置">中国 广东 中山 联通</td>
+                    <td data-title="响应速度">2秒</td>
+                    <td data-title="最后验证时间">2023-04-07 04:31:01</td>
+                    <td data-title="付费方式">免费代理ip</td>
+                </tr>
+
+                <tr>
+                    <td data-title="IP">182.139.110.14</td>
+                    <td data-title="PORT">9000</td>
+                    <td data-title="匿名度">高匿名</td>
+                    <td data-title="类型">HTTP</td>
+                    <td data-title="位置">四川省成都市  电信</td>
+                    <td data-title="响应速度">0.5秒</td>
+                    <td data-title="最后验证时间">2023-04-07 03:31:01</td>
+                    <td data-title="付费方式">免费代理ip</td>
+                </tr>
+
+                <tr>
+                    <td data-title="IP">123.169.39.212</td>
+                    <td data-title="PORT">9999</td>
+                    <td data-title="匿名度">高匿名</td>
+                    <td data-title="类型">HTTP</td>
+                    <td data-title="位置">中国 山东 烟台 电信</td>
+                    <td data-title="响应速度">0.4秒</td>
+                    <td data-title="最后验证时间">2023-04-07 02:31:01</td>
+                    <td data-title="付费方式">免费代理ip</td>
+                </tr>
+
+                <tr>
+                    <td data-title="IP">182.139.110.170</td>
+                    <td data-title="PORT">9000</td>
+                    <td data-title="匿名度">高匿名</td>
+                    <td data-title="类型">HTTP</td>
+                    <td data-title="位置">四川省成都市  电信</td>
+                    <td data-title="响应速度">2秒</td>
+                    <td data-title="最后验证时间">2023-04-07 01:31:01</td>
+                    <td data-title="付费方式">免费代理ip</td>
+                </tr>
+
+                <tr>
+                    <td data-title="IP">61.216.185.88</td>
+                    <td data-title="PORT">60808</td>
+                    <td data-title="匿名度">高匿名</td>
+                    <td data-title="类型">HTTP</td>
+                    <td data-title="位置">中国 台湾 屏东县 </td>
+                    <td data-title="响应速度">0.7秒</td>
+                    <td data-title="最后验证时间">2023-04-07 00:31:01</td>
+                    <td data-title="付费方式">免费代理ip</td>
+                </tr>
+
+            </tbody>
+        </table>
+        <p>注：表中响应速度是中国测速服务器的测试数据，仅供参考。响应速度根据你机器所在的地理位置不同而有差异。</p>
+        <p>声明：<br/>
+            免费代理ip是第三方代理服务器，收集自互联网，并非快代理所有，快代理不对免费代理ip的有效性负责。<br/>
+            请合法使用免费代理ip，由用户使用免费代理ip带来的法律责任与快代理无关。<br/>
+            若免费代理ip侵犯了您的权益，请通过客服及时告知，快代理将在第一时间删除。
+        </p>
+
+        <div id="listnav">
+        <ul><li>第</li><li><a href="/free/inha/1/" class="active">1</a></li><li><a href="/free/inha/2/">2</a></li><li><a href="/free/inha/3/">3</a></li><li><a href="/free/inha/4/">4</a></li><li><a href="/free/inha/5/">5</a></li><li>...</li><li><a href="/free/inha/5099/">5099</a></li><li><a href="/free/inha/5100/">5100</a></li><li>页</li></ul>
+        </div>
+
+        <div class="btn center be-f"><a id="tobuy" href="/pricing/" target="_blank">购买更多代理</a></div>
+    </div>
+</div>
+</div>
+
+</div>
+
+
+    <div class="page-line-sep mt"></div>
+
+<div class="section">
+    <div class="section-container">
+        <div class="section-footer flex">
+            <div class="logoGray media-m">
+                <img src="/img/v3/logo_2@2x.png" width="116">
+            </div>
+            <div class="footer-l">
+                <div class="logoGray">
+                    <img src="/img/v3/y1@2x.png" width="116">
+                    <div class="cr">
+                        <span>Copyright &#169 2013 - 2023 快代理</span><br>
+                        <span>积善科技（北京）有限公司</span>
+                    </div>
+                </div>
+
+                <div class="footer-share">
+                    <a class="share-item" href="https://www.zhihu.com/org/kuai-dai-li-77" target="_blank"></a>
+                    <a class="share-item" href="https://baijiahao.baidu.com/u?app_id=1717481087185421" target="_blank"></a>
+                    <a class="share-item" href="https://space.bilibili.com/440521225?spm_id_from=..0.0" target="_blank"></a>
+                    <a class="share-item" href="https://github.com/kuaidaili" target="_blank"></a>
+                </div>
+                <div class="qrcode flex">
+                    <div>
+                        <div class="img-box" style="padding: 5px;">
+                            <img src="/img/service_wx3.png" alt="代理ip客服微信">
+                        </div>
+                        <div class="name"><span>客服微信</span></div>
+                    </div>
+                    <div>
+                        <div class="img-box">
+                            <img src="/img/v3/wx_mp.png" alt="企业ip代理公众号">
+                        </div>
+                        <div class="name"><span>公众号</span></div>
+                    </div>
+
+                </div>
+                <div class="contact flex">
+                    <div class="flex">
+                        <img src="/img/v3/y9@2x.png">
+                        <div class="info">
+                            <div><b>客服热线</b></div>
+                            <span>400-058-0638</span>
+                        </div>
+                    </div>
+                    <a class="flex" href="http://q.url.cn/CDksXo?_type=wpa&amp;qidian=true" target="_blank">
+                        <div class="qq"></div>
+                        <div class="info">
+                            <div><b>客服QQ</b></div>
+                            <span>800849628</span>
+                        </div>
+                    </a>
+                    <div class="flex">
+                        <img src="/img/v3/y11@2x.png">
+                        <div class="info">
+                            <div><b>客服时间</b></div>
+                            <span>周一至周六 9:00 - 21:00</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-r flex flex-auto">
+                <div class="link flex flex-column">
+                    <div><b>产品</b><i class="sys-icon icon-arrow-footer media-m"></i></div>
+                    <a href="/tps/" class="gray-link">隧道代理</a>
+                    <a href="/dps/" class="gray-link">私密代理</a>
+                    <a href="/kps/" class="gray-link">独享代理</a>
+                    <a href="/ops/" class="gray-link">开放代理</a>
+                </div>
+                <div class="link flex flex-column">
+                    <div><b>增值服务</b><i class="sys-icon icon-arrow-footer media-m"></i></div>
+                    <a href="/student" class="gray-link">学生成长计划</a>
+                    <a href="/extension" class="gray-link">Chrome专属插件</a>
+                </div>
+
+                <div class="link flex flex-column">
+                    <div><b>支持</b><i class="sys-icon icon-arrow-footer media-m"></i></div>
+                    <a href="/helpcenter/" class="gray-link" target="_blank">帮助中心</a>
+                    <a href="/doc/api/" class="gray-link" target="_blank">API接口</a>
+
+                    <a href="/doc/dev/quickstart/" class="gray-link" target="_blank">开发者指南</a>
+                    <a href="/doc/dev/sdk/" class="gray-link" target="_blank">SDK&代码样例</a>
+                    <a href="/extension/" class="gray-link" target="_blank">浏览器插件</a>
+                    <a href="/changelog/" class="gray-link" target="_blank">更新日志💡</a>
+                </div>
+                <div class="link flex flex-column">
+                    <div><b>企业</b><i class="sys-icon icon-arrow-footer media-m"></i></div>
+                    <a href="/about/" class="gray-link" target="_blank">关于我们</a>
+                    <a href="/safe/" class="gray-link" target="_blank">安全合规</a>
+                    <a href="/report/" class="gray-link" target="_blank">举报滥用</a>
+                    <a href="/blog/" class="gray-link" target="_blank">官方博客</a>
+                    <a href="/cps/" class="gray-link" target="_blank">推广计划</a>
+                    <a href="/contract/" class="gray-link" target="_blank">服务条款</a>
+                    <a href="/law/" class="gray-link" target="_blank">隐私政策</a>
+                    <a href="/cooperation/" class="gray-link" target="_blank">商务合作</a>
+                </div>
+                <div class="link media-m">
+                    <div><a href="https://img.kuaidaili.com/sitemap.xml" style="padding: 0;border:0"><b>网站地图</b></a></div>
+                </div>
+            </div>
+        </div>
+        <div class="section-footer-m media-m">
+            <a href="tel:4000580638" class="btn gray-btn is-plain btn-cross">客服热线：400-058-0638</a>
+            <a href="http://q.url.cn/CDksXo?_type=wpa&amp;qidian=true" class="btn gray-btn is-plain btn-cross">客服QQ：800849628</a>
+            <div><span>客服时间：周一至周六 9:00 - 21:00</span></div>
+        </div>
+        <div class="copyright">
+
+            <div class="flex copyInfo">
+                <div class="flex copyInfo-l">
+                    <div class="media-m"><span>&#169 2013 -2023 积善科技（北京）有限公司</span></div>
+
+                    <a class="flex" target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802027137" rel="nofollow">
+                        <img src="/img/v3/z1@2x.png">
+                        <span>京公网安备 11010802027137号</span>
+                    </a>
+                    <a target="_blank" href="http://beian.miit.gov.cn/publish/query/indexFirst.action" rel="nofollow"><span>京ICP备 16054786号</span></a>
+                    <div><span>增值电信经营许可证 京B2-20181007</span></div>
+                    <div><span>互联网虚拟专用网业务许可证 B1-2018461</span></div>
+                </div>
+
+                <div class="flex trust">
+                  <a href="https://ss.knet.cn/verifyseal.dll?sn=e161117110108652324qkr000000&ct=df&a=1&pa=0.3305956236561214" target="_blank" rel="nofollow">
+                    <div class="icon_text">
+                        <div class="thumb">
+                            <img src="/img/v3/z2@2x.png">
+                        </div>
+                        <span class="flex flex-column">
+                            <span>可信网站</span>
+                            <span>身份验证</span>
+                        </span>
+                    </div>
+                  </a>
+                  <a href="https://credit.szfw.org/CX20180118037820350186.html" target="_blank" rel="nofollow">
+                    <div class="icon_text">
+                        <div class="thumb">
+                            <img src="/img/v3/z3@2x.png">
+                        </div>
+                        <span class="flex flex-column">
+                            <span>诚信网站</span>
+                            <span>示范企业</span>
+                        </span>
+                    </div>
+                  </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div id="mNavMask" style="position: fixed; top: 0px; left: 0px; bottom: 0; right: 0; width: 100%; z-index: 100; height: 100%; display: none; background: rgba(0, 0, 0, 0.74902);"></div>
+
+
+<!-- 右侧贴边 开始-->
+<div class="sticky-right media-pc">
+
+    <div class="contactUs">
+        <div class="in_contactUs online-chat">
+            <img src="/img/v3/contactUsMin.png" alt="联系我们" data-rjs="2">
+            <span>联系我们</span>
+        </div>
+        <div class="popover left" style="top: -114px">
+            <div class="popover__arrow" style="top: 162px"></div>
+            <div class="popover__content">
+                <div class="contact">
+                    <a href="javascript:void(0);" class="flex flex-column flex-start online-chat">
+                        <b>售前在线咨询</b>
+                        <span>专业工程师提供即时1V1技术支持</span>
+                    </a>
+                    <a href="tel:4000580638" class="flex flex-column flex-start tel">
+                        <b>客服热线</b>
+                        <span><text>400-058-0638</text> 周一至周六 9:00 ~ 21:00</span>
+                    </a>
+                    <a href="/support/addrequest" class="flex flex-column flex-start">
+                        <b>提交工单</b>
+                        <span>您的每一次反馈我们都认真对待</span>
+                    </a>
+                    <a href="http://q.url.cn/CDksXo?_type=wpa&amp;qidian=true" class="flex flex-column flex-start wechat" target="_blank">
+                        <b>客服企业微信 & QQ</b>
+                        <span>企微：请微信扫码 客服QQ：<text class="blue-link">800849628</text></span>
+                        <div class="popover left media-pc" style="margin-right: 20px; margin-top: -54px;">
+                            <div class="popover__content">
+                                <div class="qrcode">
+                                    <img src="/img/service_wx3.png" width="140" alt="企业代理ip客服"/>
+                                    <div><span>客服微信</span></div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="/cooperation" class="flex flex-column flex-start">
+                        <b>商务合作通道</b>
+                        <span>如需商务合作请通过专用通道联系我们</span>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <div id="top_btn" class="back-top" style="display:none;">
+        <div class="in_back-top">
+            <span class="iconfont icon-fanhuidingbu"></span>
+        </div>
+    </div>
+</div>
+<!-- 右侧贴边 结束-->
+
+<!-- 移动端底部贴边 开始-->
+<div class="bottom_bar media-m">
+    <div class="contactUs-m">
+        <a href="javascript: void(0);" class="btn online-chat">在线咨询</a>
+        <a href="tel:4000580638" class="btn tel">客服热线</a>
+    </div>
+</div>
+<!-- 移动端底部贴边 结束-->
+
+
+</div>
+
+
+
+<script type="text/javascript" src="/js/all.js?v=122"></script>
+
+
+
+
+<script type="text/javascript">
+$("#tag_inha").addClass("active")
+$(document).ready(function() {
+});
+</script>
+
+<script type="text/javascript">
+var menu = "menu_free";
+if(menu) $('#'+menu).addClass('active');
+var ucm = "";
+if(ucm){
+    $('#ucm_'+ucm).addClass('active');
+    $('#ucm_'+ucm+' a i').addClass('icon-white');
+}
+
+$(".contact-li").click(function(){
+    var href = $(this).attr("data-href");
+    if(href) window.location.href = href;
+});
+
+$(".top-login-btn").each(function(){
+    $(this).attr("href", $(this).attr("href")+"?next="+encodeURIComponent(window.location.pathname + window.location.search));
+});
+
+if(window.location.pathname.lastIndexOf('/usercenter', 0) === 0 || window.location.pathname.lastIndexOf('/support', 0) === 0){
+    $('.topnav .navigation-inner').css("max-width", "1350px");
+    $('.footer .con-body').css("width", "1330px");
+
+
+      set_uc_top_notify("error", '依照《反电信网络诈骗法》的要求，请您尽快完成 <a href="/usercenter/auth/" data-user-action="top_notify|click|auth_link|" class="r-icon">实名认证</a>', false, 1);
+
+
+    if(isMobileDevice()){
+        //移动设备打开会员中心页面自动滚动到内容区域
+        if($("#uc_right").offset()) $("html, body").animate({ scrollTop: $("#uc_right").offset().top + "px" }, 300);
+    }
+
+    // 使用风险过高，实名身份需要重新验证
+    renewIdentityVerifyNotify();
+
+    // 未绑定微信，替换顶部微信二维码
+
+        update_navtop_wechat_qrcode();
+
+}
+
+
+
+
+
+var ie = ieVersion()
+if(!ie || ie >= 11){
+    loadScript("/js/popper-tippy.js", function(){
+        if(isDefined(tippy)) {
+            tippy.setDefaults({
+              arrow: true,
+              animation: 'fade',
+              duration: [180, 250],
+              theme: 'light-border'
+            });
+            tippy('.footer2 .photo .wechat', {
+              placement: 'bottom',
+
+              content: '<img src="/img/service_wx@2x.jpg" width=200 height=266 />'
+            });
+
+        }
+
+    });
+}
+$(window).scroll(function () {
+    var topscroll = document.documentElement.scrollTop || document.body.scrollTop;
+    var $mod_wrap_subnav = $(".mod-wrap-subnav");
+    if (topscroll < 465){
+        $mod_wrap_subnav.removeClass("fixed_top_0");
+    }else{
+        $mod_wrap_subnav.addClass("fixed_top_0");
+    }
+})
+$("#mNavMask").click(function () {
+    $(".m-close").click();
+})
+$('input[type=text], textarea').css("-webkit-appearance", "none");
+
+
+
+</script>
+
+<script type="text/javascript">
+var chat_url = tourl('www', "/online_chat");
+$(document).ready(function() {
+    init_chat();
+});
+
+// 右下方美洽悬浮框埋点
+$('.float-bar-nav .online-chat').click(function () {
+    bd_event_tracking('咨询客服', 'click', '页面右下方联系我们');
+});
+</script>
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $('[data-user-action]').click(function () {
+        var data = $(this).data("user-action");
+        var arr = data.split("|");
+        if(arr.length == 4) report_user_action(arr[0], arr[1], arr[2], arr[3]);
+    });
+});
+</script>
+
+<script type="text/javascript">
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?7ed65b1cc4b810e9fd37959c9bb51b31";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','/ga/ga.js','ga');
+ga('create', 'UA-76097251-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Ads: 924805085 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-924805085"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-924805085');
+</script>
+
+<script>
+    // 网站顶部导航栏埋点
+    $('#menu_free a').click(function (e){
+        bd_event_tracking('导航栏', 'click', '免费代理');
+    });
+    $('#menu_pricing a').click(function (e){
+        bd_event_tracking('导航栏', 'click', '购买代理');
+    });
+    // $('#menu_product_list a').click(function (e){
+    //    try {
+    //        _hmt.push(['_trackEvent', '导航栏', 'click', '产品列表', '']);
+    //    }catch (e) {
+    //        console.log(e);
+    //    }
+    //});
+    $('#menu_doc a').click(function (e){
+        bd_event_tracking('导航栏', 'click', '文档中心');
+    });
+    $('#menu_developer a').click(function (e){
+        bd_event_tracking('导航栏', 'click', '开发者');
+    });
+    $('#menu_help a').click(function (e){
+        bd_event_tracking('导航栏', 'click', '帮助与支持');
+    });
+
+    $('.top-login-btn').click(function (e) {
+        bd_event_tracking('登录', 'click', '导航登录');
+    });
+
+    // 页脚联系方式 qq微信github 埋点
+    $('.footer2 .photo').click(function () {
+        bd_event_tracking('联系方式', 'click', 'photo区域');
+    });
+
+    // 页脚右边
+    $($('.footer2 .footer-r dl')[0]).find('a').click(function () {
+        bd_event_tracking('页脚导航', 'click', '产品类');
+    });
+    $($('.footer2 .footer-r dl')[1]).find('a').click(function () {
+        bd_event_tracking('页脚导航', 'click', '常见问题类');
+    });
+    $($('.footer2 .footer-r dl')[2]).find('a').click(function () {
+        bd_event_tracking('页脚导航', 'click', '支持类');
+    });
+    $($('.footer2 .footer-r dl')[3]).find('a').click(function () {
+        bd_event_tracking('页脚导航', 'click', '关于我们类');
+    });
+</script>
+
+
+<script>
+    // 百度统计埋点
+    function bd_event_tracking(category, action, opt_label) {
+        try {
+            _hmt.push(['_trackEvent',category, action, opt_label, '']);
+        }catch (e) {
+            console.log(e);
+        }
+    }
+
+    // 渠道统计
+
+</script>
+
+<!--[if lt IE 9]><link rel="stylesheet" href="/css/ie.css?v=10" media="screen" /><![endif]-->
+</body>
+</html>
